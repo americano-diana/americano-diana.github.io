@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Starting this blog to keep a collection of my projects in Machine Learning & Neuroscience - as well as other interesting topics. But first, an intro.
+Starting this blog to keep a collection of my projects in Machine Learning & Neuroscience - as well as other interesting topics.
 
 # About Me
 
 I have a background in Psychology from the Universidad de Guadalajara in Mexico, where I did 3 specializations in Neuropsychology, Social Psychology and Special Educational Needs.
 
-I am interested in the neuro-, social- and psychological research of mental health, as well as applying mathematical and computational approaches to research. 
+I am interested in the neuro-, social- and psychological research of mental health, as well as applying mathematical and computational approaches to neurocognitive research. 
 
 I did 1 year of studies in mathematics & physics before I began the master's in Cognitive Neurosciences. During my studies in Germany I gained experience working as a student and research assistant in various institutions, including Max Planck Institute of Human Development, Freie Universität, Humboldt Universität and a consultant company. 
 
