@@ -8,12 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
 title                    : "DPAG / NeuroDI"
 title_separator          : "-"
 name                     : &name "DPAG"
 description              : &description "DPAG's website for acamide, professional and funky stuff"
-url                      : https://neurodi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://americano-diana.github.io"
+# the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" o
+#r if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "americano-diana/neurodi.github.io"
 
@@ -25,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "Diana P Americano G"
   pronouns         : "she/they"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master's student of Cognitive Neurosciences (MCNB) at FUB, interested in theoretical computational neuroscience"
   location         : "Germany"
   employer         : "Freie Universität Berlin"
   uri              : # URL
