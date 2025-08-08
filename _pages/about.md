@@ -19,5 +19,5 @@ I did 1 year of studies in mathematics & physics before I began the master's in 
 
 I believe in open, accessible, fair and inclusive science and technologies, and as I dwelve deeper into NeuroAI-topics I believe it is most important to advocate for these principles.
 
-Currently looking for potential PhD or post-graduate positions as a researcher or engineer in Deep Neural Networks or other ML and neuro-related topics. Feel free to reach out if you want to have a chat!
+Currently looking for potential PhD or graduate positions as a researcher/engineer in Deep Neural Networks or other ML and neuro-related topics. Feel free to reach out if you want to have a chat!
 
