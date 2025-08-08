@@ -9,15 +9,15 @@
 # Basic Site Settings
 locale                   : "en-US"
 remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
-title                    : "DPAG / NeuroDI"
+title                    : "amerid website"
 title_separator          : "-"
 name                     : &name "DPAG"
-description              : &description "DPAG's website for acamide, professional and funky stuff"
+description              : &description "DPAG's website for academic, professional and funky stuff"
 url                      : "https://americano-diana.github.io"
 # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" o
 #r if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "americano-diana/neurodi.github.io"
+repository               : "americano-diana/americano-diana.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
