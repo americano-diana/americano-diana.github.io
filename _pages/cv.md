@@ -50,17 +50,6 @@ Certificates
   * Basic ML concepts, evaluation of models and presentation of an NLP project. (Add link)
 * Data Analysis with Python, ReDI School of Digital Integration Berlin (2024)
   * Statistical analysis of real-world data, A/B testing, data visualization and presentation of a car classification project. (Add link)
-<!-- Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
   
 Teaching
 ======

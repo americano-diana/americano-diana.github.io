@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
-title                    : "amerid website"
+title                    : "DPAG's website"
 title_separator          : "-"
 name                     : &name "DPAG"
 description              : &description "DPAG's website for academic, professional and funky stuff"
@@ -24,7 +24,7 @@ repository               : "americano-diana/americano-diana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepic.png"
   name             : "Diana P Americano G"
   pronouns         : "she/they"
   bio              : "Master's student of Cognitive Neurosciences (MCNB) at FUB, interested in theoretical computational neuroscience"
