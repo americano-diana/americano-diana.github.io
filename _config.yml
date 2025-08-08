@@ -24,7 +24,7 @@ repository               : "americano-diana/americano-diana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic.png"
+  avatar           : "profilepic.jpg"
   name             : "Diana P Americano G"
   pronouns         : "she/they"
   bio              : "Master's student of Cognitive Neurosciences (MCNB) at FUB, interested in theoretical computational neuroscience"
