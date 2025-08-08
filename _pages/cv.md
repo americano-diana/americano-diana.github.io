@@ -11,37 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MsC. in Cognitive Neurosciences, Freie Universität Berlin (2025, expected)
+* B.A. in Psychology, Universidad de Guadalajara (2018)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Student Assistant // 01.2025 - Ongoing
+  * Freie Universität Berlin, Germany
+  * Project: "Resolving the cognitive and neural basis of affective sound-meaning associations"
+  * Duties includes: Literature research, developing and fine-tuning ML and DL models.
+  * Supervisor: Dr. Arash Aryani
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Intern // 01.2024 - 01.2025
+  * Humboldt Universität Berlin, Germany
+  * Projects: "Resolving the cognitive and neural basis of affective sound-meaning associations"
+  * Duties included: Literature research, piloting of experimental studies, data analysis.
+  * Supervisors: MsC. Pedro Espinosa & Dr. Loris Naspi
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant // 06.2023 - 06.2024
+  * Max Planck Institute for Human Development, Berlin, Germany
+  * Project:
+  * Duties included: Developing & testing set ups for human-AI interaction experiments.
+  * Supervisor: Dr. Ivan Soraperra
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming in MATLAB, Python & R
+* Neuroimaging data gathering and analysis (MRI, EEG)
+* AI methologies including fine-tuning and testing artificial neural networks (ANNs) with PyTorch
+* Advanced knowledge in statistics and mathematical modeling, with a deep interest for bayesian inference
+* Experience in DEIB consulting & interpersonal skills
 
-Publications
+Certificates
+======
+* NeuroAI, from NeuroMatch Academy (2025)
+  * Research and comparison of biological vs artificial neural networks, going over topics like generalization, microcircuits and macrocircuits.
+* Machine Learning & AI, ReDI School of Digital Integration Berlin (2025)
+  * Basic ML concepts, evaluation of models and presentation of an NLP project. (Add link)
+* Data Analysis with Python, ReDI School of Digital Integration Berlin (2024)
+  * Statistical analysis of real-world data, A/B testing, data visualization and presentation of a car classification project. (Add link)
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -51,7 +60,7 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -61,4 +70,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-facilitator during the "RISE Leadership Program 2024" for young BiPoC 
+* Student representative for MCNB21 cohort (2021-2024)
+* Tutoring of students at the Foreign Languages Center at UMSNH (2020)
+* Social practices working with children with ASD & ADHD  (2017-2018)
+* Volunteering at Homelessness Shelter from the State of Jalisco (2015)
