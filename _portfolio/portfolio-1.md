@@ -6,4 +6,4 @@ collection: portfolio
 
 This repository will be a collection of notebooks that explain complex topics related to theoretical computational neuroscience, the very first one being on probabilistics. 
 
-<iframe src="https://colab.research.google.com/drive/1TeigPRA-CyR3KDgWJow9qGuYDjkVEzgA?usp=sharing" width="100%" height="600"></iframe>
+[![GitHub Repo](https://img.shields.io/badge/GitHub-neuronotes-blue?logo=github)](https://github.com/americano-diana/neuronotes)
