@@ -19,19 +19,19 @@ Work experience
 * Student Assistant // 01.2025 - Ongoing
   * Freie Universität Berlin, Germany
   * Project: "Resolving the cognitive and neural basis of affective sound-meaning associations"
-  * Duties includes: Literature research, developing and fine-tuning ML and DL models.
+  * Duties includes: Literature research, developing and fine-tuning ML & DL models.
   * Supervisor: Dr. Arash Aryani
 
 * Intern // 01.2024 - 01.2025
   * Humboldt Universität Berlin, Germany
-  * Projects: "Resolving the cognitive and neural basis of affective sound-meaning associations"
-  * Duties included: Literature research, piloting of experimental studies, data analysis.
+  * Projects: "Perceptual Facilitation via Predictive Cues and its Effects on Episodic Memory"
+  * Duties included: Literature research, piloting of experimental studies, gathering & analysis of medical imaging data.
   * Supervisors: MsC. Pedro Espinosa & Dr. Loris Naspi
 
 * Research Assistant // 06.2023 - 06.2024
   * Max Planck Institute for Human Development, Berlin, Germany
-  * Project:
-  * Duties included: Developing & testing set ups for human-AI interaction experiments.
+  * Project: "Does art expertise elevate AI usage for generating images?" + "Furhat: A Social Robot that can also be Receptionist" 
+  * Duties included: Developing & testing set ups for human-AI interaction experiments, used various technologies such as Docker, REACT and Node.JS.
   * Supervisor: Dr. Ivan Soraperra
   
 Skills
